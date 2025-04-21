@@ -1,0 +1,140 @@
+# Planejamento da Estrutura do Site "Despertei aos 40"
+
+## Layout e Wireframe
+
+### Estrutura Geral
+- Design de página única (one-page) com navegação suave entre seções
+- Cabeçalho fixo com logo e botão de CTA
+- Seções claramente delimitadas com espaçamento adequado
+- Footer com informações de contato e direitos autorais
+
+### Wireframe por Seção
+
+1. **Seção Hero (Cabeçalho)**
+   - Banner em tela cheia com imagem de fundo inspiradora
+   - Título principal centralizado e destacado
+   - Subtítulo logo abaixo do título
+   - Descrição curta
+   - Botão CTA grande e destacado
+   - Navegação discreta para outras seções
+
+2. **Seção "Para quem é?"**
+   - Título da seção centralizado
+   - Três cards ou blocos com ícones representativos
+   - Cada card contém um tipo de público-alvo
+   - Botão CTA ao final da seção
+
+3. **Seção "O que você vai receber?"**
+   - Título da seção centralizado
+   - Imagem ilustrativa do e-book à esquerda
+   - Três tópicos à direita com ícones
+   - Layout em duas colunas em desktop, empilhado em mobile
+
+4. **Seção "Por que se inscrever?"**
+   - Título da seção centralizado
+   - Grid de 2x3 com os seis benefícios (ícones + texto)
+   - Botão CTA centralizado abaixo dos benefícios
+
+5. **Seção "Antes e Depois"**
+   - Título da seção centralizado
+   - Layout em duas colunas lado a lado
+   - Coluna "Com o e-book" com fundo claro e ícones positivos
+   - Coluna "Sem o e-book" com fundo mais escuro e ícones negativos
+   - Contraste visual entre as duas colunas
+
+6. **Seção "Inscreva-se agora"**
+   - Fundo destacado (cor diferente ou gradiente)
+   - Título da seção centralizado
+   - Resumo do produto em tópicos com ícones
+   - Preço destacado com opções de pagamento
+   - Botão CTA grande e chamativo
+
+7. **Seção "Quem sou eu?"**
+   - Título da seção centralizado
+   - Foto da autora à esquerda (circular)
+   - História pessoal à direita
+   - Layout em duas colunas em desktop, empilhado em mobile
+   - Fundo suave que transmita confiança
+
+8. **Seção "Perguntas mais frequentes"**
+   - Título da seção centralizado
+   - Acordeão para as perguntas (expandir/recolher)
+   - Ícones para cada categoria de pergunta
+   - Botão CTA final grande e destacado
+
+## Esquema de Cores
+
+### Paleta Principal
+- **Roxo profundo (#6A0DAD)**: Cor principal, transmite transformação e sabedoria
+- **Dourado suave (#D4AF37)**: Cor de destaque para elementos importantes e CTAs
+- **Azul sereno (#4682B4)**: Cor complementar para elementos secundários
+- **Branco (#FFFFFF)**: Fundo principal e textos sobre cores escuras
+- **Cinza escuro (#333333)**: Para textos principais sobre fundo claro
+
+### Aplicação das Cores
+- Títulos em roxo profundo
+- Botões CTA em dourado com texto escuro
+- Ícones em azul sereno ou dourado
+- Seções alternando entre fundo branco e cinza muito claro (#F8F8F8)
+- Seção de preço com gradiente de roxo para criar destaque
+
+## Tipografia
+
+### Fontes
+- **Títulos**: Playfair Display (elegante e feminina)
+- **Subtítulos**: Montserrat Semi-Bold (moderna e clara)
+- **Corpo de texto**: Raleway (leve e de fácil leitura)
+- **CTAs e botões**: Montserrat Bold (impactante e clara)
+
+### Hierarquia Tipográfica
+- Título principal: 48px em desktop, 36px em mobile
+- Subtítulos de seção: 36px em desktop, 28px em mobile
+- Subtítulos secundários: 24px em desktop, 20px em mobile
+- Corpo de texto: 16px em desktop, 14px em mobile
+- Texto de botões: 18px em desktop, 16px em mobile
+
+## Elementos Visuais Necessários
+
+1. **Imagens**
+   - Imagem de capa para o e-book (mockup)
+   - Foto da autora (placeholder)
+   - Imagem de fundo para a seção hero
+   - Imagens de fundo sutis para algumas seções
+
+2. **Ícones**
+   - Ícones para os benefícios
+   - Ícones para "Com o e-book" (positivos)
+   - Ícones para "Sem o e-book" (negativos)
+   - Ícones para métodos de pagamento
+   - Ícones para as perguntas frequentes
+
+3. **Elementos Gráficos**
+   - Separadores de seção elegantes
+   - Bordas decorativas para cards
+   - Elementos de destaque para preços
+   - Gradientes sutis para fundos
+
+## Responsividade
+
+- **Desktop** (acima de 1024px): Layout completo com múltiplas colunas
+- **Tablet** (768px a 1024px): Redução de espaçamentos, algumas seções de duas para uma coluna
+- **Mobile** (abaixo de 768px): Layout empilhado, fontes reduzidas, menus simplificados
+
+## Interatividade Planejada
+
+1. **Navegação**
+   - Menu de navegação suave (smooth scroll) para as seções
+   - Botão "voltar ao topo" que aparece ao rolar
+
+2. **Elementos Expansíveis**
+   - FAQ em formato de acordeão (expandir/recolher)
+   - Possíveis tooltips para explicações adicionais
+
+3. **Formulário**
+   - Formulário de captura para compra com validação
+   - Feedback visual ao preencher campos
+
+4. **Animações**
+   - Fade-in de elementos ao rolar a página
+   - Hover effects em botões e cards
+   - Transições suaves entre estados de elementos

@@ -1,0 +1,77 @@
+# Análise da Estrutura do Site para E-book "Despertei aos 40"
+
+## Estrutura do Conteúdo
+
+### 1. Seção de Cabeçalho/Hero
+- Título principal: "Despertei aos 40"
+- Subtítulo: "As 7 decisões que transformaram minha vida após os 40 – e podem transformar a sua também"
+- Descrição: "Um guia profundo e inspirador para mulheres que querem recomeçar com coragem, propósito e leveza."
+- CTA (Call to Action): "Quero reservar minha vaga"
+
+### 2. Seção "Para quem é?"
+- Título da seção
+- Lista de público-alvo:
+  * Mulheres com mais de 40 que sentem que deram tudo de si
+  * Pessoas enfrentando crises ou mudanças drásticas
+  * Mães, divorciadas ou mulheres sobrecarregadas
+- CTA repetido
+
+### 3. Seção "O que você vai receber?"
+- Título da seção
+- Descrição do produto:
+  * E-book com as 7 decisões transformadoras
+  * Conteúdo direto e aplicável
+  * Passo a passo para sair da estagnação
+
+### 4. Seção "Por que se inscrever?"
+- Título da seção
+- Lista de benefícios (6 itens)
+- CTA repetido
+
+### 5. Seção "Antes e depois"
+- Título: "Despertei aos 40: o antes e depois de quem decide recomeçar"
+- Comparativo de benefícios:
+  * Com o e-book (5 itens positivos)
+  * Sem o e-book (5 itens negativos)
+
+### 6. Seção de Preço/Oferta
+- Título: "Inscreva-se agora:"
+- Resumo do produto (3 itens)
+- Preço: 2x de R$ 11,90 ou R$ 19,00 à vista
+- CTA repetido
+
+### 7. Seção "Quem sou eu?"
+- Título da seção
+- História pessoal da autora
+- Credibilidade e conexão emocional
+
+### 8. Seção "Perguntas mais frequentes"
+- Título da seção
+- 10 perguntas e respostas comuns
+- CTA final
+
+## Elementos Visuais Necessários
+
+1. Imagem de capa/hero para o e-book
+2. Ícones para os benefícios
+3. Imagem da autora
+4. Elementos visuais para separar as seções
+5. Botões de CTA destacados
+6. Elementos visuais para o comparativo "antes e depois"
+7. Ícones para métodos de pagamento
+
+## Cores e Estilo
+
+Baseado no conteúdo, recomendo:
+- Paleta de cores que transmita transformação e renascimento (tons de roxo, azul e dourado)
+- Tipografia elegante e legível
+- Design clean e sofisticado, voltado para mulheres maduras
+- Elementos visuais que transmitam leveza e esperança
+
+## Funcionalidades Necessárias
+
+1. Formulário de captura para compra
+2. Botões de CTA em pontos estratégicos
+3. Layout responsivo para todos os dispositivos
+4. Animações sutis para engajamento
+5. Possível integração com sistema de pagamento
